@@ -118,7 +118,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [FleetPanda](https://www.fleetpanda.com/) | Milan Chowk Marga, Kathmandu | Delivery management platform, offering route optimization, real-time tracking, and driver management for businesses with vehicle fleets
 - [Fusemachines Nepal Pvt. Ltd.](https://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
 - [F1Soft International](https://f1soft.com/) | Pulchowk, Lalitpur | FinTech company providing services to more than 90% of the banks and financial institutions in the country
-
+- [Futurex Tech](https://futurex.framer.website/) | Baluwatar, Kathmandu | Futurex tech offers design-to-development services like UI/UX, web & app development, branding, graphic design, digital marketing & much more.
 ## G - I
 
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
